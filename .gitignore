@@ -1,0 +1,59 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.css
+*.gif
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# SO specific files
+lib/
+test-reports/
+Server/modules/
+Client/manifest-subst.mf
+Shared/manifest-subst.mf
+Server/manifest-subst.mf
+Server/changelog.html
+
+# Common patterns
+target/
+.cache/
+.sonar/
+*~
+*.iml
+*.exec
+*.ipr
+*.iws
+
+# Build properties
+Client/build.properties
+Client/src/ivy.xml
+Client/images/
+Client/classes
+Client/.cache
+
+Server/.cache
+Server/classes
+Server/build.properties
+Server/manifest.mf
+
+Shared/.cache
+Shared/classes
+Shared/build.properties
+Tasks/build.properties
+build.properties
+images
+.idea
+*.empty.txt
+
+*.html
+package-list

@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Module: @ModuleBaseName@
+Module-Name: @ModuleFullName@
+Module-Type: @ModuleType@
+Module-License: @ModuleLicense@
+Module-Summary: @ModuleSummary@
+Module-Description: @ModuleDescription@
+Module-Specification-Version: @ModuleVersion@
+Module-Kernel-Dependencies:  SERVER/1 >= 2.2.36
+Module-Install: com.webbfontaine.twm.wbetst.module.WbModule
+Class-Path: ext/wbetst.jar
+Shared-Jar: wbetst.jar
+Client-Jar: wbetstc.jar
+Server-Jar: wbetsts.jar
+
